@@ -3,4 +3,4 @@
 在dev分支上迭代一个子版本1224//master分支试图添加日期
 //feature1试图删除此行
 
-//no fast forward模式合并分支，分支名devnoff
+//no fast forward模式合并分支，分支名devnoff，iss101修复了bug
